@@ -60,11 +60,11 @@ quest
 yang nantinya akan di simpan dalan listBarang dan listQuest.
 
 ## Dokumentasi
-![ss/chara1](chara1.png)
-![ss/chara2](chara2.png)
-![ss/npc1](npc1.png)
-![ss/npc2](npc2.png)
-![ss/tas&quest](tas&quest.png)
-![ss/kegiatan](kegiatan.png)
+![ss/chara1](ss/chara1.png)
+![ss/chara2](ss/chara2.png)
+![ss/npc1](ss/npc1.png)
+![ss/npc2](ss/npc2.png)
+![ss/tas&quest](ss/tas&quest.png)
+![ss/kegiatan](ss/kegiatan.png)
 
 
